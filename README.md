@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Luxe7
+- <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Have a good day!&center=true&size=27"> </a> </h1>
 - 👀 I’m interested in ...
 ![](https://lux7-pictures.oss-cn-beijing.aliyuncs.com/img/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f69636f6e2e706e67.png)
 
