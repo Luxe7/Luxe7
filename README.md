@@ -1,8 +1,5 @@
 Hi there! 👋 I'm Luxe7 😉
 
-- Studying in Computer Science 💻
-- Interested in a lot of things : Single-player games 🎮, movies 📽, electronic products ⚛️...
-- Love Open Source 🌼 & knowledge sharing 🤝
   
 ![](https://lux7-pictures.oss-cn-beijing.aliyuncs.com/img/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f69636f6e2e706e67.png)
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luxe7&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
