@@ -1,11 +1,15 @@
 Hi there! 👋 I'm Luxe7 😉
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luxe7&amp;theme=tokyonight" alt="Luxe7 GitHub statistics" />
-</div>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luxe7&amp;theme=tokyonight" alt="Luxe7 GitHub activity over the past year" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luxe7&amp;theme=solarized_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luxe7&amp;theme=vue" width="32%" alt="Luxe7 GitHub statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luxe7&amp;theme=solarized_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luxe7&amp;theme=vue" width="66%" alt="Luxe7 GitHub activity over the past year" />
+  </picture>
+</p>
 
 <!---
 Luxe7/Luxe7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
