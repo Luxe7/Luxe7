@@ -2,12 +2,12 @@ Hi there! 👋 I'm Luxe7 😉
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luxe7&amp;theme=solarized_dark" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luxe7&amp;theme=vue" width="32%" alt="Luxe7 GitHub statistics" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luxe7&amp;theme=nord_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luxe7&amp;theme=default" width="32%" alt="Luxe7 GitHub statistics" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luxe7&amp;theme=solarized_dark" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luxe7&amp;theme=vue" width="66%" alt="Luxe7 GitHub activity over the past year" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luxe7&amp;theme=nord_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luxe7&amp;theme=default" width="66%" alt="Luxe7 GitHub activity over the past year" />
   </picture>
 </p>
 
