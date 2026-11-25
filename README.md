@@ -1,8 +1,11 @@
 Hi there! 👋 I'm Luxe7 😉
 
-  
-<div align="center"> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Luxe7&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
-<div align="center"> <img height="137px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Luxe7&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luxe7&amp;theme=tokyonight" alt="Luxe7 GitHub statistics" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luxe7&amp;theme=tokyonight" alt="Luxe7 GitHub activity over the past year" />
+</div>
 
 <!---
 Luxe7/Luxe7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
